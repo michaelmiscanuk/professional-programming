@@ -2064,6 +2064,7 @@ List of resources:
 - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
 - [spandanb/learndb-py](https://github.com/spandanb/learndb-py): learn database internals by implementing it from scratch.
 - [gvwilson/querynomicon](https://github.com/gvwilson/querynomicon): an Introduction to SQL for the Cautious and Weary
+- [SQL Cheat Sheet](https://www.cheatgrid.com/databases/0293-sql-cheat-sheet), CheatGrid: query execution order, joins, NULL handling, CTEs, window functions and frames, grouping and pivoting, indexes and transactions, as reference tables with an example per row.
 
 ### State
 
